@@ -1,0 +1,4 @@
+C:\Users\Xu Zhengfu\Desktop\0.9.1.12\hento\AvionicsInstrumentsControls\obj\Release\AvionicsInstrumentControlDemo.AttitudeIndicatorInstrumentControlold.resources
+C:\Users\Xu Zhengfu\Desktop\0.9.1.12\hento\AvionicsInstrumentsControls\obj\Release\HentoInstrument.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\Xu Zhengfu\Desktop\0.9.1.12\hento\AvionicsInstrumentsControls\obj\Release\HentoInstrument.Properties.Resources.resources
+C:\Users\Xu Zhengfu\Desktop\0.9.1.12\hento\AvionicsInstrumentsControls\obj\Release\HentoInstrument.csproj.GenerateResource.Cache

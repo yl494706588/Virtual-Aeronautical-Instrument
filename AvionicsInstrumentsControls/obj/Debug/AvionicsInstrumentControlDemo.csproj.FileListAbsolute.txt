@@ -1,0 +1,82 @@
+E:\测试区\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.pdb
+E:\测试区\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.csprojResolveAssemblyReference.cache
+E:\测试区\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+E:\测试区\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.Cache
+E:\测试区\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+E:\测试区\AvionicsInstrumentControlDemo\bin\Debug\AvionicsInstrumentControlDemo.pdb
+E:\测试区\AvionicsInstrumentControlDemo\bin\Debug\AvionicsInstrumentControlDemo.dll
+E:\测试区\AvionicsInstrumentControlDemo\obj\Debug\AvionicsInstrumentControlDemo.dll
+E:\测试区\AvionicsInstrumentControlDemo\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csprojResolveAssemblyReference.cache
+E:\测试区\AvionicsInstrumentControlDemo\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+E:\测试区\AvionicsInstrumentControlDemo\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+E:\测试区\AvionicsInstrumentControlDemo\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.Cache
+E:\测试区\AvionicsInstrumentControlDemo\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.dll
+E:\测试区\AvionicsInstrumentControlDemo\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.pdb
+E:\测试区\AvionicsInstrumentControlDemo\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.dll
+E:\测试区\AvionicsInstrumentControlDemo\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.pdb
+G:\hento\匿名地面站\ANOGround (3)\ANOGround\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.dll
+G:\hento\匿名地面站\ANOGround (3)\ANOGround\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.pdb
+G:\hento\匿名地面站\ANOGround (3)\ANOGround\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csprojResolveAssemblyReference.cache
+G:\hento\匿名地面站\ANOGround (3)\ANOGround\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+G:\hento\匿名地面站\ANOGround (3)\ANOGround\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+G:\hento\匿名地面站\ANOGround (3)\ANOGround\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.Cache
+G:\hento\匿名地面站\ANOGround (3)\ANOGround\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.dll
+G:\hento\匿名地面站\ANOGround (3)\ANOGround\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Evan\Desktop\hento\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\Evan\Desktop\hento\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Evan\Desktop\hento\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\Evan\Desktop\hento\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\Evan\Desktop\hento\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.Cache
+C:\Users\Evan\Desktop\hento\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\Evan\Desktop\hento\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Evan\Desktop\hento\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\HentoGround\update1\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\Evan\Desktop\HentoGround\update1\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Evan\Desktop\HentoGround\update1\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\HentoGround\update1\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\Evan\Desktop\HentoGround\update1\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\Evan\Desktop\HentoGround\update1\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.Cache
+C:\Users\Evan\Desktop\HentoGround\update1\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\Evan\Desktop\HentoGround\update1\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Evan\Desktop\HentoGround\update1 - 副本\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\Evan\Desktop\HentoGround\update1 - 副本\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Evan\Desktop\HentoGround\update1 - 副本\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\HentoGround\update1 - 副本\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\Evan\Desktop\HentoGround\update1 - 副本\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\Evan\Desktop\HentoGround\update1 - 副本\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.Cache
+C:\Users\Evan\Desktop\HentoGround\update1 - 副本\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\Evan\Desktop\HentoGround\update1 - 副本\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Evan\Desktop\update3\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\Evan\Desktop\update3\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Evan\Desktop\update3\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\update3\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\Evan\Desktop\update3\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\Evan\Desktop\update3\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.Cache
+C:\Users\Evan\Desktop\update3\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\Evan\Desktop\update3\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\正夫\Desktop\0.9.1.11\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\正夫\Desktop\0.9.1.11\hento\AvionicsInstrumentsControls\bin\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\正夫\Desktop\0.9.1.11\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csprojResolveAssemblyReference.cache
+C:\Users\正夫\Desktop\0.9.1.11\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AttitudeIndicatorInstrumentControlold.resources
+C:\Users\正夫\Desktop\0.9.1.11\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\正夫\Desktop\0.9.1.11\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\正夫\Desktop\0.9.1.11\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.Cache
+C:\Users\正夫\Desktop\0.9.1.11\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.dll
+C:\Users\正夫\Desktop\0.9.1.11\hento\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Lin Yue\Desktop\0.9.7.8\AvionicsInstrumentsControls\bin\Debug\HentoInstrument.dll
+C:\Users\Lin Yue\Desktop\0.9.7.8\AvionicsInstrumentsControls\bin\Debug\HentoInstrument.pdb
+C:\Users\Lin Yue\Desktop\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\Lin Yue\Desktop\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\Lin Yue\Desktop\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.cache
+C:\Users\Lin Yue\Desktop\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lin Yue\Desktop\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\HentoInstrument.dll
+C:\Users\Lin Yue\Desktop\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\HentoInstrument.pdb
+C:\Users\Lin Yue\Desktop\Develop\地面站开发\0.9.7.8\AvionicsInstrumentsControls\bin\Debug\HentoInstrument.dll
+C:\Users\Lin Yue\Desktop\Develop\地面站开发\0.9.7.8\AvionicsInstrumentsControls\bin\Debug\HentoInstrument.pdb
+C:\Users\Lin Yue\Desktop\Develop\地面站开发\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csprojAssemblyReference.cache
+C:\Users\Lin Yue\Desktop\Develop\地面站开发\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\Lin Yue\Desktop\Develop\地面站开发\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\Lin Yue\Desktop\Develop\地面站开发\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.GenerateResource.cache
+C:\Users\Lin Yue\Desktop\Develop\地面站开发\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\AvionicsInstrumentControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lin Yue\Desktop\Develop\地面站开发\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\HentoInstrument.dll
+C:\Users\Lin Yue\Desktop\Develop\地面站开发\0.9.7.8\AvionicsInstrumentsControls\obj\Debug\HentoInstrument.pdb
